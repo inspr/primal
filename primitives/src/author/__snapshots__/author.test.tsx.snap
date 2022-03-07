@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Author expect to match snapshot 1`] = `
+<div
+  className="css-1lenkv6"
+>
+  <img
+    alt="omiohviralata"
+    className="border"
+    height="24px"
+    src="/fake.png"
+    width="24px"
+  />
+  <div
+    className=" css-1cn63ng"
+    color="gray.900"
+    size="sm"
+    textDecoration="none"
+  >
+    <div
+      className="css-2wkr7z"
+    >
+      Polenta Malagueta 🌶\`
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,10 @@
+{
+    "name": "@primal/primitives",
+    "version": "0.0.0",
+    "description": "inspr design language primitives",
+    "main": "src/index.ts",
+    "types": "src/index.ts",
+    "devDependencies": {
+        "@types/react-test-renderer": "^17.0.1"
+    }
+}

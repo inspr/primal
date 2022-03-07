@@ -1,0 +1,225 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checkbox Checkbox Group should match snapshot 1`] = `
+<div
+  className="css-1muqplt"
+>
+  <label
+    className="css-7xhxrf"
+    disabled={false}
+  >
+    <svg
+      className="css-1twpqk4"
+      disabled={false}
+      fill="none"
+      height="20"
+      viewBox="0 0 30 30"
+      width="20"
+    >
+      <rect
+        fill="#fefefe"
+        height="20"
+        rx="2"
+        width="20"
+        x="5"
+        y="3"
+      />
+      <rect
+        height="20"
+        rx="2"
+        stroke="#111111"
+        strokeWidth="1.75"
+        width="20"
+        x="5"
+        y="3"
+      />
+      <path
+        d="M10 12.3619L13.8175 15.9507C14.0213 16.1423 14.3426 16.1294 14.5304 15.9222L19.9 9.99941"
+        stroke="#111111"
+        strokeLinecap="round"
+        strokeWidth="2"
+      />
+    </svg>
+    <input
+      checked={true}
+      disabled={false}
+      onChange={[Function]}
+      type="checkbox"
+    />
+    <span
+      className="css-2pas60"
+      color="gray.900"
+      size="xxs"
+      textDecoration="none"
+    />
+  </label>
+</div>
+`;
+
+exports[`Checkbox Checkbox Icon should match snapshot 1`] = `
+<svg
+  className="css-1twpqk4"
+  disabled={false}
+  fill="none"
+  height="20"
+  viewBox="0 0 30 30"
+  width="20"
+>
+  <rect
+    fill="#111111"
+    height="20"
+    rx="2"
+    width="20"
+    x="5"
+    y="3"
+  />
+  <rect
+    height="20"
+    rx="2"
+    stroke="#111111"
+    strokeWidth="1.75"
+    width="20"
+    x="5"
+    y="3"
+  />
+</svg>
+`;
+
+exports[`Checkbox Checkbox Icon should match snapshot 2`] = `
+<svg
+  className="css-1rucuqf"
+  disabled={true}
+  fill="none"
+  height="20"
+  viewBox="0 0 30 30"
+  width="20"
+>
+  <rect
+    fill="#F5F5F5"
+    height="20"
+    rx="2"
+    width="20"
+    x="5"
+    y="3"
+  />
+  <rect
+    height="20"
+    rx="2"
+    stroke="#B8B8B8"
+    strokeWidth="1.75"
+    width="20"
+    x="5"
+    y="3"
+  />
+</svg>
+`;
+
+exports[`Checkbox Checkbox Icon should match snapshot 3`] = `
+<svg
+  className="css-1twpqk4"
+  disabled={false}
+  fill="none"
+  height="15"
+  viewBox="0 0 30 30"
+  width="15"
+>
+  <rect
+    fill="red"
+    height="20"
+    rx="2"
+    width="20"
+    x="5"
+    y="3"
+  />
+  <rect
+    height="20"
+    rx="2"
+    stroke="red"
+    strokeWidth="1.75"
+    width="20"
+    x="5"
+    y="3"
+  />
+</svg>
+`;
+
+exports[`Checkbox Checkbox Icon should match snapshot 4`] = `
+<svg
+  className="css-1twpqk4"
+  disabled={false}
+  fill="none"
+  height="15"
+  viewBox="0 0 30 30"
+  width="15"
+>
+  <rect
+    fill="blue"
+    height="20"
+    rx="2"
+    width="20"
+    x="5"
+    y="3"
+  />
+  <rect
+    height="20"
+    rx="2"
+    stroke="blue"
+    strokeWidth="1.75"
+    width="20"
+    x="5"
+    y="3"
+  />
+  <path
+    d="M10 12.3619L13.8175 15.9507C14.0213 16.1423 14.3426 16.1294 14.5304 15.9222L19.9 9.99941"
+    stroke="blue"
+    strokeLinecap="round"
+    strokeWidth="2"
+  />
+</svg>
+`;
+
+exports[`Checkbox Checkbox should match snapshot 1`] = `
+<label
+  className="css-7xhxrf"
+  disabled={false}
+>
+  <svg
+    className="css-1twpqk4"
+    disabled={false}
+    fill="none"
+    height="20"
+    viewBox="0 0 30 30"
+    width="20"
+  >
+    <rect
+      fill="#111111"
+      height="20"
+      rx="2"
+      width="20"
+      x="5"
+      y="3"
+    />
+    <rect
+      height="20"
+      rx="2"
+      stroke="#111111"
+      strokeWidth="1.75"
+      width="20"
+      x="5"
+      y="3"
+    />
+  </svg>
+  <input
+    checked={false}
+    disabled={false}
+    onChange={[Function]}
+    type="checkbox"
+  />
+  <span
+    className="css-2pas60"
+    color="gray.900"
+    size="xxs"
+    textDecoration="none"
+  />
+</label>
+`;

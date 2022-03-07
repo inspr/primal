@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar should match snapshot 1`] = `
+<img
+  alt="fake"
+  className="border"
+  height="16px"
+  src="/fake.png"
+  width="16px"
+/>
+`;

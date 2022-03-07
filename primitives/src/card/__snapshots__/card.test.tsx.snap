@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card should match snapshot 1`] = `
+<div
+  className="css-1if212z"
+>
+  <span
+    className="css-1h6u694"
+    color="gray.900"
+    textDecoration="none"
+  >
+    Design, connect, and deploy your applications quickly.
+  </span>
+</div>
+`;

@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Radio Radio Group should match snapshot 1`] = `
+<div
+  className="css-1muqplt"
+>
+  <label
+    className="css-1h4nib4"
+    disabled={false}
+    size="md"
+  >
+    <input
+      disabled={false}
+      onClick={[Function]}
+      type="radio"
+    />
+    <span
+      className="point active"
+    />
+    <span
+      className="css-2pas60"
+      color="gray.900"
+      size="xxs"
+      textDecoration="none"
+    />
+  </label>
+</div>
+`;
+
+exports[`Radio Radio should match snapshot 1`] = `
+<label
+  className="css-19gxnrg"
+  disabled={false}
+  size="sm"
+>
+  <input
+    disabled={false}
+    onClick={[Function]}
+    type="radio"
+  />
+  <span
+    className="point "
+  />
+  <span
+    className="css-9f10a2"
+    color="gray.900"
+    size="xxxs"
+    textDecoration="none"
+  />
+</label>
+`;

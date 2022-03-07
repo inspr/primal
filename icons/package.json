@@ -1,0 +1,7 @@
+{
+    "name": "@primal/icons",
+    "version": "0.0.0",
+    "description": "inspr icons",
+    "main": "index.ts",
+    "types": "index.ts"
+}

@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button should match snapshot 1`] = `
+<button
+  className="css-cwuxy9"
+  disabled={false}
+  type="button"
+>
+  <div
+    className="css-15kwwr6"
+  >
+    <span
+      className="buttonText css-1n0bscz"
+      color="gray.900"
+      size="md"
+      textDecoration="none"
+    >
+      Add
+    </span>
+  </div>
+</button>
+`;

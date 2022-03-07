@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link should match standard list snapshot 1`] = `
+<ul
+  className="css-1ocr9yx"
+>
+  <li
+    className="css-1n0bscz"
+    color="gray.900"
+    size="md"
+    textDecoration="none"
+  >
+    item 1
+  </li>
+  <li
+    className="css-1n0bscz"
+    color="gray.900"
+    size="md"
+    textDecoration="none"
+  >
+    item 2
+  </li>
+</ul>
+`;

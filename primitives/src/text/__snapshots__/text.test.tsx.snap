@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text should match snapshot 1`] = `
+<span
+  className="css-1h6u694"
+  color="gray.900"
+  textDecoration="none"
+>
+  Some Text
+</span>
+`;

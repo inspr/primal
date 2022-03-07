@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Switch should match snapshot 1`] = `
+<div
+  className="css-12iwbps"
+>
+  <label>
+    <input
+      onChange={[Function]}
+      type="checkbox"
+    />
+  </label>
+</div>
+`;

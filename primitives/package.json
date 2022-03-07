@@ -6,5 +6,17 @@
     "types": "src/index.ts",
     "devDependencies": {
         "@types/react-test-renderer": "^17.0.1"
+    },
+    "dependencies": {
+        "@primal/icons": "^0.0.0",
+        "@primal/theme": "^0.0.0",
+        "@primal/state": "^0.0.0"
+    },
+    "peerDependencies": {
+        "@emotion/react": "^11.7.1",
+        "@emotion/styled": "^11.6.0",
+        "next": "^12.0.8",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2"
     }
 }

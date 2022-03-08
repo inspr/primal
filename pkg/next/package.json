@@ -1,0 +1,9 @@
+{
+  "name": "@primal/next",
+  "description": "Primal's plugin for NextJS",
+  "dependencies": {
+    "next-compose-plugins": "^2.2.1",
+    "next-pwa": "^5.4.5",
+    "next-transpile-modules": "^9.0.0"
+  }
+}

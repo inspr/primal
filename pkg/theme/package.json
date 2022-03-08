@@ -3,5 +3,9 @@
     "version": "0.0.0",
     "description": "",
     "main": "./index.ts",
-    "types": "./index.ts"
+    "types": "./index.ts",
+    "dependencies": {
+        "@types/next": "^9.0.0",
+        "@types/react": "^17.0.39"
+    }
 }

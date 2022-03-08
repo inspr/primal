@@ -20,8 +20,7 @@
     "outDir":"dist",
   },
   "exclude": [
-    "**/*.test.tsx",
-    "**/*.test.tsx.snap",
-    "**/*.stories.tsx"
+    "**/*.test.*",
+    "**/*.stories.*"
   ]
 }

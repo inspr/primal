@@ -3,6 +3,9 @@
     "declaration": true,
     "target": "es5",
     "lib": ["dom", "dom.iterable", "esnext"],
+    "paths": {
+      "@primal/primitives": ["./src"]
+    },
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,

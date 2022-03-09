@@ -19,7 +19,7 @@ This package has as peerDepencies the following:
 
 Since npm does not install them automatically, you can do:
 ```bash
-npm i @emotion-react@11.1.4 @emotion/styled@11.6.0 react react-dom next
+npm i @emotion/react@11.1.4 @emotion/styled@11.6.0 react react-dom next
 ```
 
 Or, if you start your Next application with:

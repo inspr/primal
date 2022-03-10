@@ -384,7 +384,7 @@ The switch component is used in pages that is necessary to toggle from true to f
 
 The code for it is as follows:
 ```jsx
-import { Switch } from "@inspr/primit
+import { Switch } from "@inspr/primitives"
 
 <Switch
     isActive={st}
